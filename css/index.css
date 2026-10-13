@@ -5,6 +5,7 @@
 #container {
     border-radius: 30px;
     border: solid 5px rgb(114, 130, 216);
+    background-color: rgb(252, 248, 244);
     margin: 50px;
     justify-self: center;
     width: 400px;
